@@ -1,0 +1,21 @@
+* {
+	box-sizing: border-box;
+	margin:0px;
+	padding:0px;
+}
+div {
+	margin:8px;
+	display: inline-block;
+}
+p {
+	padding:6px;
+}
+.uno {
+	background-color: yellow;
+}
+.dos {
+	background-color: red;
+}
+.tres {
+	background-color: yellow;
+}
